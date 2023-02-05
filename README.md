@@ -1,6 +1,6 @@
 # Demobilize_Final_Project
 Demobilize Final Project
-Saves time and efforts.
+
  Desciption
  
  It is a form of electronic commerce which allows consumers
@@ -21,6 +21,8 @@ smartphones.
 
 
 Goals and Objective Of The  Website
+
+                     Saves time and efforts.
                     The convenience of shopping at home.
                     Wide variety/range of products are available.
                     Good discounts / lower prices.
