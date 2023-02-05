@@ -1,0 +1,27 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N806" />
+          <option value="N801" />
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="selenium.webdriver.support.wait.until.element_to_be_clickable" />
+          <option value="selenium.webdriver.firefox.webdriver.WebDriver.find_element_by_id" />
+          <option value="selenium.webdriver.firefox.webdriver.WebDriver.find_element_by_xpath" />
+          <option value="Base.base.webdriver_manager" />
+          <option value="Base.base.ChromeDriverManager" />
+          <option value="utility.utility.ChromeDriverManager" />
+          <option value="_pytest.mark.structures.Mark.sanity" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>

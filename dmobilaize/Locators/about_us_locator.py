@@ -1,0 +1,10 @@
+class About_Us_Locator():
+    about_us_button="//a[contains(text(),'About us')]"
+    vedio="//div[@id='example-video']"
+    pause="//body/div[@id='videoModal']/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/div[4]/button[1]/span[1]"
+    play="//body/div[@id='videoModal']/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/div[4]/button[1]/span[1]"
+    part="//body/div[@id='videoModal']/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/div[4]/div[5]"
+    picture="//body/div[@id='videoModal']/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/div[4]/button[3]/span[1]"
+    zoom="//body/div[@id='videoModal']/div[1]/div[1]/div[2]/form[1]/div[1]/div[1]/div[4]/button[4]/span[1]"
+    close="//body/div[@id='videoModal']/div[1]/div[1]/div[3]/button[1]"
+    x="//body/div[@id='videoModal']/div[1]/div[1]/div[1]/button[1]/span[1]"

@@ -1,0 +1,12 @@
+class sign_up_Locator():
+    signup_button="//a[@id='signin2']"
+    signin_username="//input[@id='sign-username']"
+    name="bizu"
+    special_character="@@##@"
+    signin_password="//input[@id='sign-password']"
+    Null=""
+    password="123456"
+    invalid_password="bb"
+    sign_up_button="//button[contains(text(),'Sign up')]"
+    close_button="//body/div[@id='signInModal']/div[1]/div[1]/div[3]/button[1]"
+    x="//body/div[@id='signInModal']/div[1]/div[1]/div[1]/button[1]/span[1]"
