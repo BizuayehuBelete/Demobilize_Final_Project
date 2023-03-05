@@ -6,7 +6,7 @@ class Test_Register(RegisterConstants):
     @allure.description('User registered correctly')
     def test_user_register_correctly(self):
         url = RegisterConstants.url_register
-        data = RegisterConstants.data_valid
+        data = RegisterConstants.valid_data
         res = requests.post(url, json=data)
         res_data = res.json()
         assert res.status_code == 200

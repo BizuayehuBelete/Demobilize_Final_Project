@@ -19,7 +19,7 @@ class Login_Page(Base_test):
         self.x_button = Login_Locator.X_button
         self.na_me = Login_Locator.Name_filled
         self.Pass_Word = Login_Locator.pass_word
-        self.Null=Login_Locator.null
+        self.Null=Login_Locator.Null
         self.Special_character = Login_Locator.special_character
     def common(self):
         super().base_for_web()

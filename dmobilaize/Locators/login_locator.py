@@ -4,7 +4,7 @@ class Login_Locator():
     Name_filled="Bizu"
     password = "//input[@id='loginpassword']"
     pass_word="123456"
-    null=""
+    Null= ""
     special_character = "@@##@"
     login_button = "//button[contains(text(),'Log in')]"
     close_button = "//body/div[@id='logInModal']/div[1]/div[1]/div[3]/button[1]"

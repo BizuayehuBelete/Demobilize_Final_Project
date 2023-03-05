@@ -3,7 +3,7 @@ from random import randint
 class RegisterConstants:
     num = randint(1, 2500)
     url_register = 'https://api.demoblaze.com/signup'
-    data_valid = {'name': "Bizuayehu",
+    valid_data = {'name': "Bizuayehu",
                   'password': "bizu"}
     data_invalid_passwerd = {'name': "Belete",
                              'password': "ewgefuwtyg"}
